@@ -1,7 +1,12 @@
-# Tauri + Vanilla TS
+# Gitmojis
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Typescript.
+Petit utilitaire pour générer rapidement la structure d'un commit utilisant ce système de Gitmojis.
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+🆕 Ajout d'une fonctionnalité/feature
+🐛 Fix/Bugfix
+❌ Suppression d'un élément
+🎨 Formattage du code
+🤖 Tests
+📖 Documentation
+🌸 Amélioration
+🚀 Release
